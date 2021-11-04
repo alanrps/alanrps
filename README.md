@@ -2,13 +2,14 @@
 
 ### Atualmente estou finalizando o curso Ciência da computação (UTFPR) e trabalhando na Stefanini Group como Analista Desenvolvedor Pleno.
 
-#### 💻 Tecnologias 
-
 <div align="center">
   <a href="https://github.com/alanrps">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alanrps&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alanrps&layout=compact&langs_count=10&theme=dracula"/>
 </div>
+
+#### 💻 Tecnologias 
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Alan-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="Alan-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
