@@ -1,6 +1,6 @@
 ## Olá, meu nome é Alan Patriarca e esse é o meu Github!
 
-### Sou formado em Ciência da computação (UTFPR) e trabalhando na Stefanini Group como Analista Desenvolvedor Pleno.
+### Sou formado em Ciência da computação (UTFPR) e trabalho na Stefanini Group como Analista Desenvolvedor Pleno.
 
 <div align="center">
   <a href="https://github.com/alanrps">
