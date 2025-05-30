@@ -1,6 +1,6 @@
 ## Olá, meu nome é Alan Patriarca e esse é o meu Github!
 
-### Sou formado em Ciência da computação (UTFPR) e trabalho atualmente na Compass UOL como Desenvolvedor Sênior.
+### Sou formado em Ciência da computação (UTFPR) e trabalho atualmente na NV8 como Desenvolvedor Sênior.
 
 <div align="center">
   <a href="https://github.com/alanrps">
