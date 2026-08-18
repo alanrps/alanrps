@@ -4,10 +4,10 @@
 
 ### 🚀 Sobre mim
 
-- 💼 Desenvolvedor de Software Sênior com mais de 5 anos de experiência em Node.js e TypeScript.
-- 💳🛒🏋️ Experiência em projetos dos setores financeiro, e-commerce e fitness.
-- 🎓 Bacharel em Ciência da Computação pela UTFPR.
-- ☁️ Atualmente estou estudando para tirar certificações AWS.
+- 💼 Desenvolvedor de Software Sênior com mais de 5 anos de experiência em Node.js e TypeScript
+- 💳🛒🏋️ Experiência em projetos dos setores financeiro, e-commerce e fitness
+- 🎓 Bacharel em Ciência da Computação pela UTFPR
+- ☁️ Atualmente estou estudando para tirar certificações AWS
 
 ### 🛠️ Tecnologias
 
