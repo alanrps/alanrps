@@ -4,10 +4,10 @@
 
 ### 🚀 Sobre mim
 
-- 💼 Desenvolvedor de Software Sênior com mais de 5 anos de experiência em Node.js e TypeScript
-- 💳🛒🏋️ Experiência em projetos dos setores financeiro, e-commerce e fitness
-- 🎓 Bacharel em Ciência da Computação pela UTFPR
-- ☁️ Atualmente estou estudando para tirar certificações AWS
+- 💼 Desenvolvedor de Software Sênior com mais de 5 anos de experiência em Node.js e TypeScript.
+- 💳🛒🏋️ Experiência em projetos dos setores financeiro, e-commerce e fitness.
+- 🎓 Bacharel em Ciência da Computação pela UTFPR.
+- ☁️ Atualmente estou estudando para tirar certificações AWS.
 
 ### 🛠️ Tecnologias
 
@@ -63,7 +63,7 @@
   <img align="center" alt="Kiro" src="https://img.shields.io/badge/Kiro-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
 </div>
 
-### 📱 Contatos
+<h3 align="center">📱 Contatos</h3>
 
 <div align="center">
   <a href="mailto:alanrodrigo636@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail" /></a>
